@@ -1,0 +1,49 @@
+{
+  "tracking": [
+    {
+      "id": "TCNU5864359",
+      "success": true,
+      "detailedResults": [
+        {
+          "containerNumber": "TCNU5864359",
+          "status": "Delivered",
+          "sizeType": "40'/HC",
+          "vesselName": "MSC LILY",
+          "voyageNo": "NY123A",
+          "fromLocation": "NEW YORK, USA",
+          "toLocation": "-",
+          "arrivalDate": "2025-09-20",
+          "departureDate": null
+        },
+        {
+          "containerNumber": "TCNU5864359",
+          "status": "In Transit",
+          "sizeType": "40'/HC",
+          "vesselName": "MSC LILY",
+          "voyageNo": "NY123A",
+          "fromLocation": "SUEZ CANAL",
+          "toLocation": "NEW YORK, USA",
+          "arrivalDate": null,
+          "departureDate": "2025-09-10"
+        }
+      ]
+    },
+    {
+      "id": "MSCU1234567",
+      "success": true,
+      "detailedResults": [
+        {
+          "containerNumber": "MSCU1234567",
+          "status": "In Transit",
+          "sizeType": "20'/GP",
+          "vesselName": "EVERGREEN ACE",
+          "voyageNo": "SG456B",
+          "fromLocation": "ATLANTIC OCEAN",
+          "toLocation": "ROTTERDAM, NL",
+          "arrivalDate": null,
+          "departureDate": "2025-09-22"
+        }
+      ]
+    }
+  ]
+}
